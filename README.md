@@ -1,18 +1,16 @@
-# Hand-Gesture-Recognition
+# Hand-Gesture-Recognition  
+Playing the traditional pacman game with your hand gesture movements.  
 
-Hand Gestures are recognized by the Program. The Object which is recognized is Red.  
+# Instructions
+Open Google Chrome and search Pacman. Pacman Doodle link will appear. Open it.    
+Run the Python File.  
+Webcam will be turned on and a Screen will be opened.  
+Use a RED object and traverse it in the BLACK plus sign in the screen.  
+Traversing the object in Right Direction will move the pacman in Right Direction and visa versa.  
 
-Note: Make sure there is no object of same color as Object Detection Color(in this case RED) in Background when Webcam in ON.
+# Requirements  
+PyAUTOGUI  
+cv2  
 
-#Playing Pacman using Hand Gesture Recognition    
-
-Game like Pacman can be played using Hand Gestures using this Code  
-Open your default search engine(ex:Chrome) and search pacman.  
-A link of Pacman of Google will appear.  
-Now Run the Code and side by side run the python file.  
-Webcam will be turned on.  
-Now enjoy playing Pacman using Hand Gestures.  
-
-#Requirements  
-pyautogui
-cv2
+# Images 
+![Pacman](https://user-images.githubusercontent.com/53828910/98445908-5efa0800-2140-11eb-9f11-fad80458a4a3.png)
